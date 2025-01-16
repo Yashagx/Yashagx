@@ -1,5 +1,5 @@
 <a href="https://rishavchanda.io">
-    <img src=["https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif](https://blog.mphomphego.co.za/assets/Github-push-terminator.gif)" alt="MasterHead">
+    <img src="https://blog.mphomphego.co.za/assets/Github-push-terminator.gif" alt="MasterHead">
 </a>
 
 <h1 align="center">Hi 👋, I'm Yash Agarwal</h1>
