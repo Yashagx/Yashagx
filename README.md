@@ -1,4 +1,4 @@
-<a href="https://rishavchanda.io">
+<a href="https://portfolio-goya-yash-agarwals-projects-a1b1afa8.vercel.app/">
     <img src="https://blog.mphomphego.co.za/assets/Github-push-terminator.gif" alt="MasterHead">
 </a>
 
