@@ -93,4 +93,3 @@
 
 ---
 
-Let me know if you'd like to make this **auto-update GitHub stats**, or add sections like pinned repos, badges, blogs, or quotes!
