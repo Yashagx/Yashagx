@@ -69,7 +69,7 @@
 ### 🐍 GitHub Snake Game (Contribution Graph)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yashagx/Yashagx/output/github-snake.svg" alt="GitHub Snake Game" />
+  <img src="https://raw.githubusercontent.com/Yashagx/Yashagx/output/dist/github-snake.svg" alt="GitHub Snake Game" />
 </p>
 
 ---
