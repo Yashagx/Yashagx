@@ -66,12 +66,20 @@
 
 ---
 
+### 🐍 GitHub Snake Game (Contribution Graph)
+
+<p align="center">
+  <img src="https://github.com/Yashagx/Yashagx/blob/output/github-snake.svg" alt="GitHub Snake Game" />
+</p>
+
+---
+
 ### 🧠 Recent Explorations
 
-- 💥 Building ensemble deep learning models for **COVID-19 forecasting** (LSTM, ANFIS, ELMAN, BPNN)
-- 🧾 Extractive + Abstractive **text summarization** for time series context
-- 🤖 Implementing **graph-based summarization** using TextRank
-- 🔁 Forecasting trends using **ARIMA + SEIR Hybrid Models**
+- 💥 Building ensemble deep learning models for **COVID-19 forecasting** (LSTM, ANFIS, ELMAN, BPNN)  
+- 🧾 Extractive + Abstractive **text summarization** for time series context  
+- 🤖 Implementing **graph-based summarization** using TextRank  
+- 🔁 Forecasting trends using **ARIMA + SEIR Hybrid Models**  
 
 ---
 
@@ -90,6 +98,3 @@
 ### 🧩 Motto
 
 > "Code with clarity. Debug with patience. Deploy with purpose."
-
----
-
