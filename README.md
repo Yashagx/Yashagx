@@ -66,7 +66,7 @@
 
 ---
 
-### 🐍 GitHub Snake Game (Dynamic Theme)
+### 🐍 
 
 <p align="center">
   <picture>
