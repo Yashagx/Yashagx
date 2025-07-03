@@ -1,12 +1,10 @@
 name: GitHub Snake Game
 
 on:
-  # Run every day at midnight UTC
+  # Run daily at midnight UTC
   schedule:
     - cron: "0 0 * * *"
-  # Allow manual triggering
   workflow_dispatch:
-  # Run on every push to main
   push:
     branches:
       - main
@@ -22,16 +20,16 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Snake Animations
+      - name: Generate GitHub Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            # Light theme: subtle contribution boxes with purple snake
-            dist/github-snake.svg?color_snake=#800080&color_dots=#ebedf0,#c6e48b,#7bc96f,#239a3b,#196127
+            # Light theme (matches GitHub's exact contribution green scale)
+            dist/github-snake.svg?color_snake=#6f42c1&color_dots=#ebedf0,#c6e48b,#7bc96f,#239a3b,#196127&transparent=true
 
-            # Dark theme: blends with github-dark background, snake gold
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#facc15&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+            # Dark theme (matches GitHub dark green contribution graph)
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#facc15&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353&transparent=true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
