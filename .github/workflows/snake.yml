@@ -2,7 +2,7 @@ name: GitHub Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # Run daily at midnight UTC
   workflow_dispatch:
   push:
     branches:
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:
-      contents: write
+      contents: write  # Required to push to output branch
 
     steps:
       - name: Checkout Repository
@@ -24,8 +24,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#800080&color_dots=#f5f5f5,#dcedc8,#aed581,#81c784,#4caf50
-            dist/github-snake-dark.svg?palette=github-dark  # no change
+            dist/github-snake.svg?color_snake=#36BCF7&color_dots=#88C0D0,#5E81AC,#4C566A,#3B4252,#2E3440
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#FFA500&color_dots=#facc15,#f59e0b,#ef4444,#84cc16,#10b981
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
