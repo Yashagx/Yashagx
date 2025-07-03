@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:
-      contents: write  # <-- REQUIRED
+      contents: write
 
     steps:
       - name: Checkout Repository
@@ -29,11 +29,16 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Deploy to output branch
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: github-snake
+          path: dist/
+
+      - name: Push to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
           publish_branch: output
-          destination_dir: .
-          commit_message: "Update GitHub Snake [skip ci]"
+          publish_dir: dist
+          force_orphan: true
