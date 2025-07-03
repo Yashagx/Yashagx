@@ -1,39 +1,16 @@
-name: GitHub Snake Game
+### 🐍 GitHub Snake Game
 
-on:
-  schedule:
-    - cron: "0 0 * * *"  # Run daily at midnight UTC
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yashagx/Yashagx/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yashagx/Yashagx/output/github-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Yashagx/Yashagx/output/github-snake.svg" />
+  </picture>
+</p>
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    permissions:
-      contents: write  # Required to push to output branch
-
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg?color_snake=#36BCF7&color_dots=#88C0D0,#5E81AC,#4C566A,#3B4252,#2E3440
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#FFA500&color_dots=#facc15,#f59e0b,#ef4444,#84cc16,#10b981
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          publish_branch: output
-          force_orphan: true
-          commit_message: "🐍 Update GitHub Snake Animation [skip ci]"
+<!-- Optional GIF version -->
+<!--
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yashagx/Yashagx/output/ocean.gif" alt="GitHub Snake Animation as GIF" />
+</p>
+-->
