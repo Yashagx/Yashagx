@@ -10,12 +10,8 @@
 </p>
 
 
-### 🔎 Profile Visits
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashagx&label=Profile%20Views&color=0e75b6&style=flat" alt="yashagx" />
-</p>
-
+🔎 Profile Visits
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yashagx&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="yashagx" /> </p>
 
 ---
 
