@@ -21,13 +21,23 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building: [SRMiggy](https://sr-miggy-yash-agarwals-projects-a1b1afa8.vercel.app/)  
-- 🌱 Diving deeper into: **Generative AI**, **Time Series Forecasting**, and **ML Interpretability**  
-- 👯 Collaborating on: [RedCrossKTR](https://github.com/Yashagx/RedCrossKTR)  
-- 🤝 Seeking contributions for: [NavArogya](https://github.com/Yashagx/NavArogya)  
-- 🧠 Always learning about: Scalable system design, RPA, and edge AI  
-- 📫 Reach me: **ya8009672@gmail.com**  
-- 💡 Fun Fact: I debug in VS Code and de-stress by feeding stray dogs. Balance in bytes and barks.  
+## 👨‍💻 About Me
+
+- 🔭 Currently building: **MediVue** — an AI-powered health assistant using NLP for early symptom detection, and **Facetronix Suite** — a modular face analytics toolkit for emotion, age, gender, and mask detection.
+- 🧪 Research Intern at: **NIT Tiruchirappalli**, working on Time Series Forecasting, LLM-based Question Answering, and ensemble neural networks for real-world COVID-19 prediction tasks.
+- 🌱 Deepening expertise in: **Generative AI**, **Multimodal Time Series Modeling**, and **Model Interpretability (XAI)**.
+- 🤝 Seeking collaborators for:
+  - [SRMIGGY](https://sr-miggy-yash-agarwals-projects-a1b1afa8.vercel.app/) — a full-stack student assistant & canteen ordering system for SRM.
+  - [RedCrossKTR](https://github.com/Yashagx/RedCrossKTR) — a blood bank management platform built for SRM Red Cross to handle donor registration, inventory, and event coordination.
+- 👨‍💼 Past Internships:
+  - **Renault Nissan Automotive India Pvt. Ltd.** — Automated supply chain processes using UiPath RPA, Excel Macros, and Power BI.
+  - **J.P. Morgan** — Completed Investment Banking  Experience Program with data analysis and valuation insights.
+  - **Tata Group** — Completed Cybersecurity Analyst  Experience Program focused on threat detection and mitigation.
+- 🧠 Exploring: Scalable backend systems, real-time Edge AI applications, decentralized apps with Web3, and RPA automation with UiPath.
+- 🏅 Academics: B.Tech CSE (Software Engineering) at SRMIST (9.91 CGPA, Top 1%, Scholarship Holder).
+- 📫 Reach out: **ya8009672@gmail.com** • [LinkedIn](https://linkedin.com/in/yash-agarwal-bb839b28b)
+- 💡 Fun Fact: I debug in VS Code and de-stress by feeding stray dogs — balance in bytes and barks 🐶💻
+
 
 ---
 
