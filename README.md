@@ -97,13 +97,21 @@
 
 ### 🔍 Projects Worth a Peek
 
-| Project | Tech | Description |
-|--------|------|-------------|
-| [SRMiggy](https://sr-miggy-yash-agarwals-projects-a1b1afa8.vercel.app/) | Next.js, Tailwind | SRM’s unofficial student assistant — quick info, events, and smart search |
-| [NavArogya](https://github.com/Yashagx/NavArogya) | Django, Firebase | Health support system with emergency tracking and awareness modules |
-| [RedCrossKTR](https://github.com/Yashagx/RedCrossKTR) | React, Express | Volunteer portal for Red Cross SRM: blood camps, events, and dashboard |
-| Blood Bank System | Django, SQLite | Admin-donor-patient system with dynamic inventory and approval workflows |
-| Devi Safety App | Solidity, Google Maps API | Women’s complaint logging and police station locator powered by Web3 |
+## 💼 Projects
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| [COVID-19 Forecasting](https://github.com/Yashagx/TimeSeriesForecastingNITT) | LSTM, ARIMA, ANFIS, Python | Research project at NIT Trichy for real-world COVID-19 case prediction using time series forecasting models and DSA-driven optimization. |
+| [RedCrossKTR](https://github.com/Yashagx/RedCrossKTR) | Django, SQLite3 | Blood donation platform with donor registration, event dashboard, and real-time inventory management for SRM Red Cross. |
+| [NavArogya](https://github.com/Yashagx/NavArogya) | Django, Firebase | ML-based heart disease prediction system with emergency support and awareness features; achieved 85% accuracy. |
+| [Devi – Safety App](https://devfolio.co/projects/devi-7b57) | Solidity, MetaMask, Google Maps API | Web3 platform for complaint logging and nearest police station locator with decentralized security. |
+| [SRMIGGY](https://sr-miggy-yash-agarwals-projects-a1b1afa8.vercel.app/) | Node.js, MySQL, JavaScript | SRM’s unofficial student canteen ordering app with real-time menus, order tracking, and RESTful API integration. |
+| **MediVue** *(ongoing)* | Python, NLP, Streamlit | AI-powered symptom checker and disease predictor using natural language input and medical knowledge graphs. |
+| **FaceCapture** *(Facetronix Suite)* | OpenCV (Haar) | Real-time face detection using Haar cascades. |
+| **FaceFeel** *(Facetronix Suite)* | CNN, Keras, FER-2013 | Emotion recognition model trained on facial expressions dataset. |
+| **FaceMeter** *(Facetronix Suite)* | MediaPipe, Python | Facial landmark analysis and head pose estimation in real-time. |
+| **GenAgeNet** *(Facetronix Suite)* | OpenCV DNN | Age and gender prediction using deep learning-based face recognition. |
+| **Maskify** *(Facetronix Suite)* | Caffe, Keras | Face mask detection module using pretrained models for safety compliance. |
 
 ---
 
