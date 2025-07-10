@@ -95,23 +95,18 @@
 
 ---
 
-### 🔍 Projects Worth a Peek
-
 ## 💼 Projects
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| [COVID-19 Forecasting](https://github.com/Yashagx/TimeSeriesForecastingNITT) | LSTM, ARIMA, ANFIS, Python | Research project at NIT Trichy for real-world COVID-19 case prediction using time series forecasting models and DSA-driven optimization. |
-| [RedCrossKTR](https://github.com/Yashagx/RedCrossKTR) | Django, SQLite3 | Blood donation platform with donor registration, event dashboard, and real-time inventory management for SRM Red Cross. |
-| [NavArogya](https://github.com/Yashagx/NavArogya) | Django, Firebase | ML-based heart disease prediction system with emergency support and awareness features; achieved 85% accuracy. |
-| [Devi – Safety App](https://devfolio.co/projects/devi-7b57) | Solidity, MetaMask, Google Maps API | Web3 platform for complaint logging and nearest police station locator with decentralized security. |
-| [SRMIGGY](https://sr-miggy-yash-agarwals-projects-a1b1afa8.vercel.app/) | Node.js, MySQL, JavaScript | SRM’s unofficial student canteen ordering app with real-time menus, order tracking, and RESTful API integration. |
-| **MediVue** *(ongoing)* | Python, NLP, Streamlit | AI-powered symptom checker and disease predictor using natural language input and medical knowledge graphs. |
-| **FaceCapture** *(Facetronix Suite)* | OpenCV (Haar) | Real-time face detection using Haar cascades. |
-| **FaceFeel** *(Facetronix Suite)* | CNN, Keras, FER-2013 | Emotion recognition model trained on facial expressions dataset. |
-| **FaceMeter** *(Facetronix Suite)* | MediaPipe, Python | Facial landmark analysis and head pose estimation in real-time. |
-| **GenAgeNet** *(Facetronix Suite)* | OpenCV DNN | Age and gender prediction using deep learning-based face recognition. |
-| **Maskify** *(Facetronix Suite)* | Caffe, Keras | Face mask detection module using pretrained models for safety compliance. |
+| [COVID-19 Forecasting](https://github.com/Yashagx/TimeSeriesForecastingNITT) | Python, LSTM, ARIMA, ANFIS, Pandas, NumPy, Scikit-learn | Academic research project at NIT Tiruchirappalli focused on forecasting COVID-19 case counts using advanced statistical and deep learning models. Implemented hybrid time series pipelines with custom feature engineering and optimization using DSA principles. |
+| [RedCrossKTR](https://github.com/Yashagx/RedCrossKTR) | Django, SQLite3, HTML/CSS, JavaScript | Developed a complete blood donation and volunteer management platform for SRM Red Cross. Included admin-level inventory control, event scheduling, donor registration, and real-time data filters to match patients with eligible donors efficiently. |
+| [NavArogya](https://github.com/Yashagx/NavArogya) | Django, Firebase, Scikit-learn, Pandas, HTML/CSS | A healthcare-focused ML application for heart disease risk classification using logistic regression and random forest models. Integrated Firebase for real-time tracking, and employed data preprocessing and hyperparameter tuning to achieve 85% model accuracy. |
+| [Devi – Women Safety App](https://devfolio.co/projects/devi-7b57) | Solidity, MetaMask, Sepolia Faucet, Google Maps API, HTML/CSS/JS | A decentralized Web3-based safety platform enabling women to log complaints securely and locate nearby police stations. Smart contracts on Ethereum ensure transparency, while integrated Google Maps API enhances user interaction and geolocation awareness. |
+| [SRMIGGY](https://sr-miggy-yash-agarwals-projects-a1b1afa8.vercel.app/) | Node.js, Express.js, MySQL, JavaScript, EJS | Full-stack canteen ordering application tailored for SRM students. Designed with real-time menu updates, order tracking, and admin interfaces. Implemented RESTful APIs, SQL query optimization, and dynamic front-end rendering for a seamless UX. |
+| **MediVue** *(ongoing)* | Python, Streamlit, NLP (spaCy/BERT), Sklearn | A next-gen AI-powered health assistant currently under development. Focuses on early-stage symptom analysis and intelligent diagnosis prediction through NLP-driven interaction. Details to be revealed soon. 🤫 |
+| **Facetronix Suite** *(ongoing)* | OpenCV, MediaPipe, Keras, Caffe, TensorFlow, CNN | An advanced, modular facial analytics suite comprising:<br>• **FaceCapture** – Real-time face detection via Haar Cascades<br>• **FaceFeel** – Emotion classification using CNN on FER-2013<br>• **FaceMeter** – Facial landmark and pose analysis with MediaPipe<br>• **GenAgeNet** – Age & gender detection with OpenCV DNN modules<br>• **Maskify** – Mask detection system using pretrained Caffe/Keras models for real-world safety compliance |
+
 
 ---
 
