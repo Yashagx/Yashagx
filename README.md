@@ -19,9 +19,9 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-## 👨‍💻 About Me
+
 
 - 🔭 Currently building: **MediVue** — an AI-powered health assistant using NLP for early symptom detection, and **Facetronix Suite** — a modular face analytics toolkit for emotion, age, gender, and mask detection.
 - 🧪 Research Intern at: **NIT Tiruchirappalli**, working on Time Series Forecasting, LLM-based Question Answering, and ensemble neural networks for real-world COVID-19 prediction tasks.
