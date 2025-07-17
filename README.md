@@ -63,6 +63,10 @@
 ### 📊 GitHub Stats (All-Time Enhanced)
 
 <p align="center">
+  <img src="https://img.shields.io/badge/2024%20GitHub%20Contributions-206-blueviolet?style=for-the-badge&logo=github" alt="206 contributions in 2024"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashagx&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=prs&rank_icon=github&cache_seconds=1800" width="450"/>
 </p>
 
@@ -81,7 +85,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yashagx&theme=monokai&no-frame=true&row=1&column=6&cache_seconds=1800" width="600"/>
 </p>
-
 
 ---
 
