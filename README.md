@@ -63,24 +63,25 @@
 ### 📊 GitHub Stats (All-Time Enhanced)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashagx&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=prs&rank_icon=github" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yashagx&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=prs&rank_icon=github&cache_seconds=1800" width="450"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yashagx&theme=tokyonight&hide_border=false" width="450"/>
+  <img src="https://streak-stats.demolab.com?user=yashagx&theme=tokyonight&hide_border=false&cache_seconds=1800" width="450"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashagx&layout=compact&theme=radical&langs_count=8" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashagx&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" width="450"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashagx&theme=github_dark" width="450"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashagx&theme=github_dark&cache_seconds=1800" width="450"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashagx&theme=monokai&no-frame=true&row=1&column=6" width="600"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yashagx&theme=monokai&no-frame=true&row=1&column=6&cache_seconds=1800" width="600"/>
 </p>
+
 
 ---
 
